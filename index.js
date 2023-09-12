@@ -32,10 +32,10 @@
 // });
 
 // Exercise - 5
-const btn = document.querySelector("button");
-const outputDiv1 = document.querySelector("div");
+// const btn = document.querySelector("button");
+// const outputDiv1 = document.querySelector("div");
 
-btn.addEventListener("click", () => {
-  outputDiv1.innerText =
-    "Button click event resulted in setting this inner text";
-});
+// btn.addEventListener("click", () => {
+//   outputDiv1.innerText =
+//     "Button click event resulted in setting this inner text";
+// });
